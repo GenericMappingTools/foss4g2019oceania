@@ -12,3 +12,7 @@
 
 This hands-on workshop covers the use of [PyGMT](https://www.pygmt.org/) to analyze geospatial data and produce publication quality figures and animations in an interactive [Jupyter](https://jupyter.org/) lab environment.
 There will also be a free [Community Day](https://2019.foss4g-oceania.org/community-day/) code sprint on 2019-11-15 where everyone is invited to join and contribute into making [PyGMT](https://github.com/GenericMappingTools/pygmt/) even better!
+
+# Quickstart
+
+[![Launch Pangeo Binder button](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/GenericMappingTools/foss4g2019oceania/master)

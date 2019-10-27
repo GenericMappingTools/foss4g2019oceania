@@ -1,0 +1,9 @@
+name: foss4g2019oceania
+channels:
+  - conda-forge
+  - conda-forge/label/dev
+dependencies:
+  - gmt==6.0.0rc5
+  - pip==19.*
+  - pip:
+    - https://github.com/GenericMappingTools/pygmt/archive/master.zip
