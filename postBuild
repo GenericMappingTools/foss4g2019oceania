@@ -1,0 +1,1 @@
+conda run gmt which -Gu @earth_relief_01m
