@@ -1,1 +1,2 @@
 conda run gmt grdimage @earth_relief_01m -R=OC -JEPSG:4326 > /dev/null
+rm gmt.history
