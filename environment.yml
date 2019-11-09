@@ -4,7 +4,11 @@ channels:
 dependencies:
   - gmt==6.0.0
   - jupyterlab==1.2.*
+  - laspy==1.6.*
+  - lastools==20171231
+  - numpy==1.16.*
   - pip==19.*
   - rasterio==1.1.*
+  - rioxarray==0.0.*
   - pip:
     - https://github.com/GenericMappingTools/pygmt/archive/master.zip
