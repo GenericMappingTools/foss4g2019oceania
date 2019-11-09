@@ -9,5 +9,6 @@ dependencies:
   - numpy==1.16.*
   - pip==19.*
   - rasterio==1.1.*
+  - rioxarray==0.0.*
   - pip:
     - https://github.com/GenericMappingTools/pygmt/archive/master.zip
