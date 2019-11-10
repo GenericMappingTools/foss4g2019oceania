@@ -11,4 +11,4 @@ dependencies:
   - rasterio==1.1.*
   - rioxarray==0.0.*
   - pip:
-    - https://github.com/GenericMappingTools/pygmt/archive/master.zip
+    - https://github.com/GenericMappingTools/pygmt/archive/foss4g2019oceania.zip
