@@ -11,5 +11,6 @@ dependencies:
   - pip==19.*
   - rasterio==1.1.*
   - rioxarray==0.0.*
+  - scikit-image==0.16.*
   - pip:
     - https://github.com/GenericMappingTools/pygmt/archive/foss4g2019oceania.zip
