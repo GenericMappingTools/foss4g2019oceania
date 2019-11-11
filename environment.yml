@@ -2,6 +2,7 @@ name: foss4g2019oceania
 channels:
   - conda-forge
 dependencies:
+  - boto3==1.10.*
   - gmt==6.0.0
   - jupyterlab==1.2.*
   - laspy==1.6.*
