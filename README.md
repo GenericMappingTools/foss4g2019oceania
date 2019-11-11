@@ -16,3 +16,14 @@ There will also be a free [Community Day](https://2019.foss4g-oceania.org/commun
 # Quickstart
 
 [![Launch Pangeo Binder button](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/GenericMappingTools/foss4g2019oceania/master)
+
+## Schedule
+
+|  Time       | Event                                                 |
+|:------------|:------------------------------------------------------|
+| 1.30-1.45pm | Brief overview                                        |
+| 1.45-2.30pm | Tutorial 1 - Introduction to PyGMT for GeoScientists  |
+| 2.30-3.15pm | Tutorial 2 - PyData and PyGMT - plotting data on maps |
+| 3.15-3.30pm | Coffee/Tea Break                                      |
+| 3.30-4.15pm | Tutorial 3 - LiDAR Point clouds to 3D surfaces        |
+| 4.15-5.00pm | Final projects and wrap up                            |
